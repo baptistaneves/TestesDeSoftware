@@ -1,0 +1,12 @@
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\01 - Testes de Unidades\Demo\bin\Debug\net7.0\Demo.deps.json
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\01 - Testes de Unidades\Demo\bin\Debug\net7.0\Demo.dll
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\01 - Testes de Unidades\Demo\bin\Debug\net7.0\Demo.pdb
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net7.0\Demo.csproj.AssemblyReference.cache
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net7.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net7.0\Demo.AssemblyInfoInputs.cache
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net7.0\Demo.AssemblyInfo.cs
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net7.0\Demo.csproj.CoreCompileInputs.cache
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net7.0\Demo.dll
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net7.0\refint\Demo.dll
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net7.0\Demo.pdb
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\01 - Testes de Unidades\Demo\obj\Debug\net7.0\ref\Demo.dll

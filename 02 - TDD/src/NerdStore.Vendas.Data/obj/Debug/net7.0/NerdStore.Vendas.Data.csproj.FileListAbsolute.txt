@@ -1,0 +1,12 @@
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Data\bin\Debug\net7.0\NerdStore.Vendas.Data.deps.json
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Data\bin\Debug\net7.0\NerdStore.Vendas.Data.dll
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Data\bin\Debug\net7.0\NerdStore.Vendas.Data.pdb
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Data\obj\Debug\net7.0\NerdStore.Vendas.Data.csproj.AssemblyReference.cache
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Data\obj\Debug\net7.0\NerdStore.Vendas.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Data\obj\Debug\net7.0\NerdStore.Vendas.Data.AssemblyInfoInputs.cache
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Data\obj\Debug\net7.0\NerdStore.Vendas.Data.AssemblyInfo.cs
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Data\obj\Debug\net7.0\NerdStore.Vendas.Data.csproj.CoreCompileInputs.cache
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Data\obj\Debug\net7.0\NerdStore.Vendas.Data.dll
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Data\obj\Debug\net7.0\refint\NerdStore.Vendas.Data.dll
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Data\obj\Debug\net7.0\NerdStore.Vendas.Data.pdb
+D:\Projectos\Web\.net\Tests\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Data\obj\Debug\net7.0\ref\NerdStore.Vendas.Data.dll
